@@ -1,0 +1,17 @@
+﻿{
+  "name": "Capture",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "SS",
+  "permissions": [
+    "activeTab",
+    "downloads"
+  ],
+  "action": {
+    "default_title": "SS",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "32": "icon.png"
+    }
+  }
+}
